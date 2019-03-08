@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GreenBird
+  m_Controller: {fileID: 9100000, guid: cac635c4b65e1a14497455674400c3d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 01b1dfff25683e5459a9005485dc9753, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dc1827adc3ae9a246913a0fc5d397986, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 170ad18ac81eb0d409387730be238ccb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aee5887c4f1adaa48acb2fd38931cdb0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ae04b82cf746d1040ae8c511442d663c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5e29c21c764b9c34e9396359f7c7706b, type: 2}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ab26d02888b33e348b5de0aa65182661
+timeCreated: 1534928631
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {fileID: 1416432521947190, guid: 2e05308b6c8e4b94b824b25c2c2350a4,
+      type: 2}
+  - bombPrefab: {fileID: 1389715972036472, guid: e8a888e71c19e1c4db548bc16e84dcd6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

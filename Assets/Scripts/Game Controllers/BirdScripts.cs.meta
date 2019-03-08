@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3380b1193d7b9ef4db8bace2dd318ca3
+timeCreated: 1534900201
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - flapClip: {fileID: 8300000, guid: e6b2b66f6dd312c43b94d794ff0eeec4, type: 3}
+  - pointClip: {fileID: 8300000, guid: 8fc913397645fb84781759eb59ae1df0, type: 3}
+  - deadClip: {fileID: 8300000, guid: 8956965e8867b144b9c2caf4c9834aa8, type: 3}
+  - coinClip: {fileID: 8300000, guid: a2afcc47bce90c44d9c641585be599ab, type: 3}
+  - bombExplosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
